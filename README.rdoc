@@ -1,28 +1,16 @@
-== README
+READ ME
+=======
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+_As a user, I want to create an account on the website.
+_As a user, I want to add a cidery to the website.
+_As a user, I want to add a tour to a cidery entry.
+_As a user, I want to edit a business or tour in a cidery entry.
+_As a user, I want to delete a business or tour in a cidery entry.
+_As a user, I want to review a cidery and/or tour.
+_As a user, I do not want my contact information available.
+_As a user, I want to see a map showing me where the cidery is located.
+_As a user, I want to plot a tour on a map to visit multiple cideries in an area.
+_As a user, I want to search for a particular cidery or a cidery in a particular area.
+_As a user, I want to be able to receive e-mails when someone replies to my review.
+_As a cidery owner, I want to provide information on upcoming events that disappear from my entry after they expire.
+_As a cidery owner, I want to be able to reply to cidery reviews in public.

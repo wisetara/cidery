@@ -1,4 +1,5 @@
 require 'spec_helper'
 
-describe "the signin process", :type => :feature do
+describe "the signup process", :type => :feature do
+
 end
