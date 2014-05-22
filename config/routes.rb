@@ -1,4 +1,5 @@
 Ciderytours::Application.routes.draw do
+  #root to: "/"
   devise_for :users
   resources :locations do
     resources :locations
